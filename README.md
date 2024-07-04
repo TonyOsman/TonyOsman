@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
-**TonyOsman/TonyOsman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An E-commerce managar by day ☼ and a java developer and student by night ☾
 
-Here are some ideas to get you started:
+E-commerce manager at MasterMix Distribuidora
+Student at Fiap
+Java developer as a freelance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-⚙️ I use daily: .java, .js, .html, .css, .sql, .py
+-🌍 I'm mostly active within the Fiap/ alura
+-💅 Designed and sucessfuly built two e-commerce businesses
+-💬 ping me about design, java, e-commerce, development, design thinking
+
 -->
