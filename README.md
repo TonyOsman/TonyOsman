@@ -1,6 +1,5 @@
 ## Hello there 👋
 
-<!--
 An E-commerce managar by day ☼ and a java developer and student by night ☾
 
 E-commerce manager at MasterMix Distribuidora
@@ -12,4 +11,4 @@ Java developer as a freelance
 -💅 Designed and sucessfuly built two e-commerce businesses
 -💬 ping me about design, java, e-commerce, development, design thinking
 
--->
+
