@@ -26,7 +26,7 @@
 <div align="center">
   <h3>Main skills → Java & e-commerce building </h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=py,java,mysq,aws)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,java,linux,aws)](https://skillicons.dev)
 </div>
 
 <hr>
