@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Tony+Osman;I'm+20+years+old;I'm+a+Data+enthusiast;and+e-commerce+Professional;I'm+from+Brazil;I'm+an+eternal+technology+student)](https://git.io/typing-svg)<br>
 
-### Atualmente trabalho como gerente de comércio eletrônico  & desenvolvedor java. 
-### Sou um estudante de Sistemas de informação na FIAP - Aclimação. Originalmente de Beirute - Líbano mas atualmente moro em São Paulo - Brazil. 
+### Atualmente trabalho como gerente de comércio eletrônico. 
+### Sou um estudante de Sistemas de informação na FIAP - Aclimação.
                           
 
 
@@ -24,7 +24,7 @@
 </div>
 
 <div align="center">
-  <h3>Main skills → Java & e-commerce building </h3>
+  <h3>Main skills → Back-end Developing & e-commerce building </h3>
   
   [![My Skills](https://skillicons.dev/icons?i=py,java,linux,aws)](https://skillicons.dev)
 </div>
