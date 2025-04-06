@@ -1,14 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB043&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Tony+Osman;I'm+20+years+old;I'm+a+Data+enthusiast;and+e-commerce+Professional;I'm+from+Brazil;I'm+an+eternal+technology+student)](https://git.io/typing-svg)<br>
-
-### Atualmente trabalho como gerente de comércio eletrônico. 
-### Sou um estudante de Sistemas de informação na FIAP - Aclimação.
-                          
-
-
-
-### Realizo projetos para empresas privadas de distribuição de todo o Brasil.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB043&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Tony+Osman;I'm+21+years+old;I'm+a+Penetration+Testing+enthusiast;I'm+from+Brazil;I'm+a+Life+Long+Learner)](https://git.io/typing-svg)<br>
 
 
 
@@ -24,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h3>Main skills → Back-end Developing & e-commerce building </h3>
+  <h3>Cyber Security & Back-end Developing </h3>
   
   [![My Skills](https://skillicons.dev/icons?i=py,java,linux,aws)](https://skillicons.dev)
 </div>
