@@ -22,14 +22,8 @@ val tonyOsman = listOf(
   <img align="center" alt="belluzzo-html" height="30" width="40" src="https://skillicons.dev/icons?i=kotlin&theme=light"/>
 
 ### Contact me    
-<p align="left">
-  <a href="www.linkedin.com/in/tony-osman">
-     <img align="center" alt="tony-html" height="30" width="40" src="https://skillicons.dev/icons?i=linkedin&theme=light"/>Linkedin  </a>
-  <br><br>
   <a href="mailto:osmanetoni@gmail.com">
-  <img align="center" alt="tony-html" height="30" width="40" src="https://skillicons.dev/icons?i=gmail&theme=light"/>
-  EMAIL
-  </a>
+  <img align="center" alt="tony-html" height="30" width="40" src="https://skillicons.dev/icons?i=gmail&theme=light"/>email</a>
 </p>
 
 
